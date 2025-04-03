@@ -1,5 +1,5 @@
 # Hey there   🍄   I'm Saba
-### 💫  I'm a web developer with a minor obsession in web design, building cool apps, and React. 
+### 💫  I'm a web developer obsessed with web design and building cool apps. 
 
 🌺 In school I studied Physics and Creative Writing.
 
