@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there  🍄  I'm Saba
+### 💫  I'm a front end web developer with a background in physics and creative writing. I spend most of my time coding, running, and reading books.
+
 
 <!--
 **ssaljuki/ssaljuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
